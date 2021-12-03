@@ -1,0 +1,42 @@
+.itemamount {
+  width: 100px;
+}
+
+.itemdescription {
+  width: 300px;
+}
+
+.itemvat {
+  width: 100px;
+}
+
+.itemprice {
+  width: 100px;
+}
+
+th {
+  padding: 5px;
+  background-color: lightgray;
+}
+
+td {
+  padding: 5px;
+  padding-right: 10px;
+  text-align: right;
+}
+
+.itemdescription {
+  width: 300px;
+}
+
+.itemvat {
+  width: 100px;
+}
+
+.itemprice {
+  width: 100px;
+}
+
+.invoicetable {
+  padding: 35px;
+}
